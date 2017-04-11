@@ -58,6 +58,10 @@ A library for creating command-line applications and running shell commands in S
 
 A Swift package for generating Xcode workspaces & playgrounds. Using it, you can build developer tools & scripts that generates workspaces for your projects, or playgrounds for quick prototyping.
 
+### [Commandant](https://github.com/Carthage/Commandant)
+
+Commandant is a Swift framework for parsing command-line arguments, inspired by Argo (which is, in turn, inspired by the Haskell library Aeson).
+
 ## Examples
 
 ### [Marathon Examples](https://github.com/johnsundell/marathon-examples)
