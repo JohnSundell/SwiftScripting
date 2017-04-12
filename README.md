@@ -35,7 +35,12 @@ A pure Swift library for creating command-line interfaces. Using it, you can eas
 
 A nicer way to handle files & folders in Swift. Files gives you an object-oriented API around the file system, making it easy to create, move, rename and handle files & folders in a script.
 
+### [Guaka](https://github.com/oarrabi/Guaka)
+
+Guaka helps you create modern and familiar CLI apps in the vein of widely used projects such as: Docker, Kubernetes, OpenShift, Hugo and more.
+
 ### [Guitar](https://github.com/artsabintsev/guitar)
+
 A Cross-Platform String and Regular Expression Library Written in Swift. Makes it easier to handle strings (such as input) in your scripts, evaluate regular expressions on them, transform them, and more.
 
 ### [Rainbow](https://github.com/onevcat/Rainbow)
