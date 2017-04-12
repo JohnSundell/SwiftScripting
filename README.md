@@ -23,6 +23,10 @@ The Package Manager for the Swift Programming Language. Using it you can manage 
 
 *While most Swift frameworks can be used in scripts, the ones in this list are particularily useful in tasks that are common when doing Swift scripting.*
 
+### [Commandant](https://github.com/Carthage/Commandant)
+
+Commandant is a Swift framework for parsing command-line arguments, inspired by Argo (which is, in turn, inspired by the Haskell library Aeson).
+
 ### [Commander](https://github.com/kylef/Commander)
 
 Commander is a small Swift framework allowing you to craft beautiful command line interfaces in a composable way. Accept input in a type safe way with great error handling and provide descriptions for your arguments.
