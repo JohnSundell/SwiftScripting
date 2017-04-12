@@ -69,6 +69,10 @@ A Swift package for generating Xcode workspaces & playgrounds. Using it, you can
 
 A collection of example Swift scripts that can easily be run using Marathon.
 
+### [Playground](https://github.com/JohnSundell/Playground)
+
+Instantly create Swift playgrounds from the command line.
+
 ### [Selenops](https://github.com/zntfdr/Selenops)
 
 A stupid simple Swift Web Crawler.
