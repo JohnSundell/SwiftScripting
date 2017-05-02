@@ -85,6 +85,10 @@ Instantly create Swift playgrounds from the command line.
 
 A stupid simple Swift Web Crawler.
 
+### [TestDrive](https://github.com/johnsundell/testdrive)
+
+Quickly try out any Swift pod or framework in a playground.
+
 ## Contributing
 
 This list is still in its early days, so a lot of awesome stuff is sure to be missing. If you know of a tool, framework or example that should be on this list - [**add it and open a PR**](https://github.com/JohnSundell/SwiftScripting/edit/master/README.md)! 👍 Before you do though, here are some quick guidelines:
