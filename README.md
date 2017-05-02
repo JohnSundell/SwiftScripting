@@ -59,6 +59,10 @@ A Swift package for resolving released versions from a Git repository. Enables y
 
 Easily run shell commands from a Swift script or command line tool. Gives you a simple function that enables you to "shell out" and run tasks on the command line from your scripts.
 
+### [Swiftline](https://github.com/oarrabi/Swiftline)
+
+Swiftline is a set of tools to help you create command line applications.
+
 ### [SwiftShell](https://github.com/kareman/SwiftShell)
 
 A library for creating command-line applications and running shell commands in Swift. It provides features such as running asynchronous tasks, handling contexts & errors and managing input & output.
