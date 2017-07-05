@@ -23,6 +23,10 @@ The Package Manager for the Swift Programming Language. Using it you can manage 
 
 *While most Swift frameworks can be used in scripts, the ones in this list are particularily useful in tasks that are common when doing Swift scripting.*
 
+### [Carting](https://github.com/artemnovichkov/Carting)
+
+Carting is a simple tool for updating Carthage Build Phase.
+
 ### [Commandant](https://github.com/Carthage/Commandant)
 
 Commandant is a Swift framework for parsing command-line arguments, inspired by Argo (which is, in turn, inspired by the Haskell library Aeson).
