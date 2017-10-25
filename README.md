@@ -15,6 +15,10 @@ This is a list of tools, frameworks & examples that you might find useful when s
 
 Marathon makes it easy to write, run and manage your Swift scripts. Quickly create, edit, run, install & share your scripts, and easily add dependencies to them.
 
+### [PackageBuilder](https://github.com/pixyzehn/PackageBuilder)
+
+PackageBuilder builds a simple command-line structure using SPM. The structure follows the approach described in [Building a command line tool using the Swift Package Manager](https://www.swiftbysundell.com/posts/building-a-command-line-tool-using-the-swift-package-manager) separating your code between a framework and the executable.
+
 ### [Swift Package Manager](https://github.com/apple/swift-package-manager)
 
 The Package Manager for the Swift Programming Language. Using it you can manage your dependencies + compile & run your scripts. Also enables you to generate Xcode projects for your scripts.
