@@ -77,6 +77,10 @@ A Swift package for generating Xcode workspaces & playgrounds. Using it, you can
 
 ## Examples
 
+### [Carting](https://github.com/artemnovichkov/Carting)
+
+Carting is a simple tool for updating Carthage Build Phase.
+
 ### [Marathon Examples](https://github.com/johnsundell/marathon-examples)
 
 A collection of example Swift scripts that can easily be run using Marathon.
