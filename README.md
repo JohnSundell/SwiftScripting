@@ -1,3 +1,5 @@
+⚠️ **NO LONGER MAINTAINED** This list is no longer kept up to date, so some of its information may no longer be relevant.
+
 # Swift scripting resources
 
 This is a list of tools, frameworks & examples that you might find useful when scripting in Swift 🚀
